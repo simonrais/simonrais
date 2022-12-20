@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @simonrais
-- 👀 I’m interested in Data Analyst
+<!-- - 👀 I’m interested in Data Analyst -->
 
 
 <!---
